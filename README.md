@@ -5,6 +5,9 @@ I really do hope this is helpful for you and your team.
 
 # What we know about the dataset:
 
+![image](https://user-images.githubusercontent.com/57412626/216827740-2bf15c36-5fcc-4f2e-bdc7-4523fb5385b1.png)
+
+
 Members have the biggest proportion of the dataset, ~19% bigger thand casuals.
 There's more data points at the last semester of 2020.
 The month with the biggest count of data points was August with ~18% of the dataset.
@@ -14,10 +17,13 @@ Temperature heavily influences the volume of rides in the month.
 The biggest volume of data is on the the weekend.
 There's a bigger volume of bikers in the afternoon.
 
+![image](https://user-images.githubusercontent.com/57412626/216827764-5349dfbd-d67d-4c7a-b676-d378c33123f3.png)
+
 It's possible to notice that the distribution of rides by month is cyclical through years, as seen on chart 02 and it's influenced by the temperature. The remaining question is: Why are there more members than casual? One plausible answer is that members have a bigger need for the bikes than casuals, as can be seen on how there are more members than casuals on cold months.
 
 Besides that, we have more bike rides on the weekends. Maybe because on those days the bikes were utilized for more recreational ways. This even more plausible when knowing that There's a bigger volume of bikers in the afternoon.
 
+![image](https://user-images.githubusercontent.com/57412626/216827910-6e44a4ce-ee01-4329-9537-92e437c237a5.png)
 
 # On this weekday, casuals take place as having the most data points.
 1 Weekends have the biggest volume of casuals, starting on friday, a ~20% increase.
