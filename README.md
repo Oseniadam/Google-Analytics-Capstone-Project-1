@@ -27,16 +27,25 @@ Besides that, we have more bike rides on the weekends. Maybe because on those da
 
 # On this weekday, casuals take place as having the most data points.
 1 Weekends have the biggest volume of casuals, starting on friday, a ~20% increase.
+
 2 We have more members during the morning, mainly between 5am and 11am. 
+
 3 We also have more casuals between 11pm and 4am.
+
 4 There's a big increase of data points in the midweek between 6am to 8am for members. 
 
 # During the weekend 
 1 We have a bigger flow of casuals between 11am to 6pm.
+
 2 Members have a bigger preference for classic bikes, 56% more.
+
 3 Casuals have more riding time than members.
+
 4 Riding time for members keeps unchanged during the midweek, increasing during weekends.
+
 5 Casuals follow a more curve distribution, peaking on sundays and valleying on wednesday/thursday.
+
+![image](https://user-images.githubusercontent.com/57412626/216828252-9858fec0-709b-43c6-80a5-de7382dd3804.png)
 
 What we can take from this information is that members have a more fixed use for bikes besides casuals. 
 Their uses is for more routine activities, like Work and Exercise. 
