@@ -5,8 +5,6 @@ I really do hope this is helpful for you and your team.
 
 # What we know about the dataset:
 
-![image](https://user-images.githubusercontent.com/57412626/216827740-2bf15c36-5fcc-4f2e-bdc7-4523fb5385b1.png)
-
 ![image](https://user-images.githubusercontent.com/57412626/218065322-bfdcf9c5-3684-4dd0-81f2-7861088c3a31.png)
 
 Members have the biggest proportion of the dataset, ~19% bigger thand casuals.
@@ -20,21 +18,15 @@ There's a bigger volume of bikers in the afternoon.
 
 ![image](https://user-images.githubusercontent.com/57412626/218064842-4cb79dae-2e8b-401e-929e-c74258bcbbd9.png)
 
-
 ![image](https://user-images.githubusercontent.com/57412626/218064871-a4beb31b-8e9e-483c-ac0c-777a67806e10.png)
-
 
 ![image](https://user-images.githubusercontent.com/57412626/218064894-b37203a1-9b83-4381-a7b1-e4804f12ec37.png)
 
-
 ![image](https://user-images.githubusercontent.com/57412626/218064931-bc7e3d5f-e5f1-4dcb-8330-785089be09f5.png)
-
 
 ![image](https://user-images.githubusercontent.com/57412626/218064963-454efd67-f8b1-4e35-b694-0b73c657b83a.png)
 
-
 ![image](https://user-images.githubusercontent.com/57412626/216827764-5349dfbd-d67d-4c7a-b676-d378c33123f3.png)
-
 
 ![image](https://user-images.githubusercontent.com/57412626/218065001-b489b00a-9865-4687-b998-dce7ac39ede8.png)
 
@@ -47,7 +39,6 @@ There's a bigger volume of bikers in the afternoon.
 ![image](https://user-images.githubusercontent.com/57412626/218065125-8daae0ba-fab7-4407-af23-5477d9cec4d2.png)
 
 ![image](https://user-images.githubusercontent.com/57412626/218065159-2bd5dc5a-5bf3-43cd-9784-3caaa84d42cc.png)
-
 
 
 
