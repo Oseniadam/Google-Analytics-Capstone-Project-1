@@ -56,7 +56,6 @@ It's possible to notice that the distribution of rides by month is cyclical thro
 
 Besides that, we have more bike rides on the weekends. Maybe because on those days the bikes were utilized for more recreational ways. This even more plausible when knowing that There's a bigger volume of bikers in the afternoon.
 
-![image](https://user-images.githubusercontent.com/57412626/216827910-6e44a4ce-ee01-4329-9537-92e437c237a5.png)
 
 # On this weekday, casuals take place as having the most data points.
 1 Weekends have the biggest volume of casuals, starting on friday, a ~20% increase.
@@ -78,7 +77,6 @@ Besides that, we have more bike rides on the weekends. Maybe because on those da
 
 5 Casuals follow a more curve distribution, peaking on sundays and valleying on wednesday/thursday.
 
-![image](https://user-images.githubusercontent.com/57412626/216828252-9858fec0-709b-43c6-80a5-de7382dd3804.png)
 
 What we can take from this information is that members have a more fixed use for bikes besides casuals. 
 Their uses is for more routine activities, like Work and Exercise. 
