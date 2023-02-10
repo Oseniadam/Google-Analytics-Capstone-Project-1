@@ -26,26 +26,15 @@ There's a bigger volume of bikers in the afternoon.
 
 ![image](https://user-images.githubusercontent.com/57412626/218064963-454efd67-f8b1-4e35-b694-0b73c657b83a.png)
 
-![image](https://user-images.githubusercontent.com/57412626/216827764-5349dfbd-d67d-4c7a-b676-d378c33123f3.png)
+It's possible to notice that the distribution of rides by month is cyclical through years, as seen on chart 02 and it's influenced by the temperature. The remaining question is: Why are there more members than casual? One plausible answer is that members have a bigger need for the bikes than casuals, as can be seen on how there are more members than casuals on cold months.
+
+Besides that, we have more bike rides on the weekends. Maybe because on those days the bikes were utilized for more recreational ways. This even more plausible when knowing that There's a bigger volume of bikers in the afternoon.
 
 ![image](https://user-images.githubusercontent.com/57412626/218065001-b489b00a-9865-4687-b998-dce7ac39ede8.png)
 
 ![image](https://user-images.githubusercontent.com/57412626/218065051-bdcd30e2-f4a9-4bd8-bf1f-1d28905cf5b5.png)
 
 ![image](https://user-images.githubusercontent.com/57412626/218065076-0c3c7677-f17f-47fb-b42d-d4b102c85132.png)
-
-![image](https://user-images.githubusercontent.com/57412626/218065102-d24a7825-66c2-4391-88d0-c0fb3449997b.png)
-
-![image](https://user-images.githubusercontent.com/57412626/218065125-8daae0ba-fab7-4407-af23-5477d9cec4d2.png)
-
-![image](https://user-images.githubusercontent.com/57412626/218065159-2bd5dc5a-5bf3-43cd-9784-3caaa84d42cc.png)
-
-
-
-
-It's possible to notice that the distribution of rides by month is cyclical through years, as seen on chart 02 and it's influenced by the temperature. The remaining question is: Why are there more members than casual? One plausible answer is that members have a bigger need for the bikes than casuals, as can be seen on how there are more members than casuals on cold months.
-
-Besides that, we have more bike rides on the weekends. Maybe because on those days the bikes were utilized for more recreational ways. This even more plausible when knowing that There's a bigger volume of bikers in the afternoon.
 
 
 # On this weekday, casuals take place as having the most data points.
@@ -57,6 +46,12 @@ Besides that, we have more bike rides on the weekends. Maybe because on those da
 
 4 There's a big increase of data points in the midweek between 6am to 8am for members. 
 
+![image](https://user-images.githubusercontent.com/57412626/218065102-d24a7825-66c2-4391-88d0-c0fb3449997b.png)
+
+![image](https://user-images.githubusercontent.com/57412626/218065125-8daae0ba-fab7-4407-af23-5477d9cec4d2.png)
+
+![image](https://user-images.githubusercontent.com/57412626/218065159-2bd5dc5a-5bf3-43cd-9784-3caaa84d42cc.png)
+
 # During the weekend 
 1 We have a bigger flow of casuals between 11am to 6pm.
 
@@ -67,7 +62,6 @@ Besides that, we have more bike rides on the weekends. Maybe because on those da
 4 Riding time for members keeps unchanged during the midweek, increasing during weekends.
 
 5 Casuals follow a more curve distribution, peaking on sundays and valleying on wednesday/thursday.
-
 
 What we can take from this information is that members have a more fixed use for bikes besides casuals. 
 Their uses is for more routine activities, like Work and Exercise. 
